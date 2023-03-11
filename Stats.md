@@ -1,6 +1,6 @@
 ## Github 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DM-09&show_icons=true&theme=dark)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DM-09&layout=compact&theme=dark)](https://github.com/DM-09/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DM-09&show_icons=true&theme=dark)](https://github.com/DM-09)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DM-09&layout=compact&theme=dark)](https://github.com/DM-09/)
 
 <br>
 
