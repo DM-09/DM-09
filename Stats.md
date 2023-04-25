@@ -8,3 +8,6 @@
 ## Beakjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongmin)](https://solved.ac/dongmin)<br>
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=dongmin&theme=dark)](https://solved.ac/dongmin)
+
+## Language
+<a href='https://github.com/DM-09/DM-09/blob/main/Language.md'>[Here 여기]</a>
