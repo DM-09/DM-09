@@ -11,5 +11,5 @@
 <a href="https://github.com/DM-09/DM-09/blob/main/Stats.md"><img src="https://user-images.githubusercontent.com/112751504/226917917-17d4891a-4f9d-40f1-9bc4-ddc4a429b6f3.png" width='55' height='20.5'/></a><br>
 <a href='https://solved.ac/dongmin'><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dongmin"/></a>
 
-Hi, I'm <b>Dongmin</b>(DM) who 13 years old. <br> I'm almost <b>web/backend dev</b>.<br> And i dream to become programmer. <br>If you interest in me, contect to email!
+Hi, I'm <b>Dongmin</b>(DM) who 13 years old. <br> Also, I'm <b>web/backend dev</b>.<br> And i dream to become programmer. <br>If you interest in me, contect to email!
 </div>
