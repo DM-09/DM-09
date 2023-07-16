@@ -1,0 +1,21 @@
+<!-- 별 한별 -->
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes ChangeColor {
+    0% {
+        fill: #F18DA7
+     }
+    50%{
+        fill: #EBBD66
+     }
+    }
+    .animation {
+      animation:ChangeColor 3s Infinite
+    }
+  </style>
+  <polygon points="100,10 40,198 190,78 10,78 160,198"
+	style="fill:white;stroke-width:1;" transform="scale(1.1) translate(-9, -10) " />
+
+  <polygon points="100,10 40,198 190,78 10,78 160,198"
+	style="fill:#F0979D;stroke-width:1;" class="animation"/>
+</svg>
